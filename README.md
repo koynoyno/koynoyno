@@ -1,7 +1,5 @@
 ![slow parrot](https://cultofthepartyparrot.com/parrots/hd/slowparrot.gif)
 
-![invisible](https://cultofthepartyparrot.com/parrots/hd/invisibleparrot.gif)
-
 <!--
 **volkoff/volkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
